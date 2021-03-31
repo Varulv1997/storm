@@ -26,7 +26,7 @@
     </parent>
 
     <artifactId>storm-hdfs-examples</artifactId>
-    
+
     <properties>
         <!-- Required downgrade by hadoop-hdfs 2.6.1 -->
         <guava.version>30.1.1-jre</guava.version>
