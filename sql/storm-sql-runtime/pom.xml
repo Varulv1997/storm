@@ -26,7 +26,7 @@
     </parent>
 
     <artifactId>storm-sql-runtime</artifactId>
-    
+
     <properties>
         <!-- Required downgrade by calcite-core 1.15.0 -->
         <guava.version>30.1.1-jre</guava.version>

@@ -30,7 +30,7 @@
     <name>storm-pmml</name>
 
     <packaging>jar</packaging>
-    
+
     <properties>
         <!-- Required downgrade by pmml-evaluator 1.0.22 -->
         <guava.version>30.1.1-jre</guava.version>
