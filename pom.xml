@@ -222,7 +222,7 @@
             <id>Ethanlm</id>
             <name>Ethan Li</name>
             <email>ethanli@apache.org</email>
-            <roles>	
+            <roles>
                 <role>Committer</role>
             </roles>
             <timezone>-6</timezone>
@@ -340,7 +340,7 @@
         <rocketmq.version>4.2.0</rocketmq.version>
 
         <jackson.version>2.9.8</jackson.version>
-        
+
         <storm.kafka.client.version>0.11.0.3</storm.kafka.client.version>
 
         <!-- Java and clojure build lifecycle test properties are defined here to avoid having to create a default profile -->
@@ -619,7 +619,7 @@
                 <!-- add perf tests back in -->
                 <java.unit.test.exclude.groups>nothing</java.unit.test.exclude.groups>
             </properties>
-        </profile> 
+        </profile>
         <profile>
             <id>integration-tests-only</id>
             <properties>
@@ -1368,7 +1368,7 @@
                                 The Apache Software License, Version 2.0
                             </licenseMerge>
                             <licenseMerge>
-                                Apache License | 
+                                Apache License |
                                 Apache Software Licenses
                             </licenseMerge>
                             <licenseMerge>
@@ -1391,13 +1391,13 @@
                                 CDDL 1.0
                             </licenseMerge>
                             <licenseMerge>
-                                Common Development and Distribution License (CDDL) v1.1 | 
+                                Common Development and Distribution License (CDDL) v1.1 |
                                 COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.1 |
                                 CDDL 1.1 |
                                 Common Development and Distribution License (CDDL), Version 1.1
                             </licenseMerge>
                             <licenseMerge>
-                                Common Development and Distribution License | 
+                                Common Development and Distribution License |
                                 <!-- Multilicense, choosing CDDL -->
                                 CDDL+GPL |
                                 CDDL+GPL License |
@@ -1501,7 +1501,7 @@
                                         <exclude>jdk.tools:jdk.tools:*</exclude>
                                     </excludes>
                                 </bannedDependencies>
-                            </rules>    
+                            </rules>
                         </configuration>
                     </execution>
                 </executions>
